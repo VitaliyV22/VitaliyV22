@@ -8,12 +8,12 @@ I'm a full-stack developer passionate about building cool stuff!
 
 ### 📫 How to reach me
 
-- [![LinkedIn](https://www.linkedin.com/in/vitaliy-vit/)
-- [![Email](vitanskyyv@gmail.com)
+- Linkedin - https://www.linkedin.com/in/vitaliy-vit/
+- Email- vitanskyyv@gmail.com
 
 ### 🔧 Currently Working on
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VitaliyV22&repo=radiofy&theme=radical)](https://github.com/VitaliyV22/radiofy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VitaliyV22&repo=radiofy&theme=default)](https://github.com/VitaliyV22/radiofy)
 
 
 
