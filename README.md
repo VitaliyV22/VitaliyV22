@@ -13,7 +13,7 @@ I'm a full-stack developer passionate about building cool stuff!
 
 ### 🔧 Currently Working on
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VitaliyV22&repo=your-repo&theme=radical)](https://github.com/VitaliyV22/radiofy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VitaliyV22&repo=radiofy&theme=radical)](https://github.com/VitaliyV22/radiofy)
 
 
 
