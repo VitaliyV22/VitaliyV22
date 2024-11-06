@@ -1,7 +1,4 @@
 ### Hi there, I'm Vitaliy 👋
-
-- 📄 View my resume at https://www.vitaliyvitanskyy.online
-- 🧑 Connect with me on [LinkedIn](https://www.linkedin.com/in/vitaliy-vitanskyy/)
-- 💻 Full-Stack Developer
-- ⚙️ JavaScript, Python, Flask, React, Node JS, PostgreSQL.
+-Full-stack developer passionate about building cool stuff
+-JavaScript, Python, Flask, React, Node JS, PostgreSQL.
 
